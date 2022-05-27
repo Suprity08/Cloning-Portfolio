@@ -1,0 +1,261 @@
+/* Title section */
+.heading{
+    color:rgb(163,202,55);
+  }
+
+
+/* Navigation Bar styles */
+
+.navbar{
+    margin-left:10%;
+}
+.nav-item{
+    margin:7%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+/* Introduction */
+
+
+.intro{
+    margin-left:10%;
+    margin-top: 7%;
+    font-family: 'Montserrat', sans-serif;
+}
+.aboutRachel{
+    font-weight:300;
+}
+.profile{
+    margin:auto 10% auto auto;
+    height:30%;
+    width:30%;
+    padding-top: 15%;
+}
+.rachel{
+    margin-top:-50%;
+    position: relative;
+    z-index: 1;
+}
+.my-box{
+    height:800px;
+    width:400px;
+    background-color:rgb(163,202,55) ;
+    margin-top:-200%;
+    margin-left:-20%;
+    position: relative;
+    z-index: -1;
+}
+.button{
+    margin-top:2%;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+/* Let's Talk Button */
+
+.button {
+    background-color: rgb(163,202,55);
+    border: none;
+    border-radius: 4%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover{
+      cursor: pointer;
+  }
+
+
+ /* Education Section */
+
+ .hustle{
+     font-size:500%;
+     font-weight: bold;
+     font-family: 'Poppins', sans-serif;
+ }
+ .hustle-div{
+     margin-top: -100%;
+     margin-left:0%;
+     opacity: 0.8;
+     position: relative;
+     z-index: -1;
+ }
+ .qualification{
+     margin-left: 20%;
+     margin-top:3%;
+     font-family: 'Poppins', sans-serif;
+ }
+ .education{
+     padding:15% 5% 5% 10%;
+ }
+
+ /* My Work Section */
+
+ .work{
+     text-align: center;
+     font-family: 'Poppins', sans-serif;
+ }
+ .work-heading{
+     font-size: 300%;
+     font-weight: bold;
+ }
+ .work-para{
+     padding:5% 8%;
+    
+ }
+
+
+ /* Projects */
+
+ .projects{
+     text-align: left;
+     padding-left:8%;
+     padding-top: 5%;
+     font-family: 'Poppins', sans-serif;
+     font-weight: bold;
+ }
+ .myprojects{
+    height:60px;
+    width:40px;
+    background-color:rgb(163,202,55) ;
+    position: relative;
+    z-index: 1;
+    margin-left: 5%;
+ }
+ 
+.first-three{
+    padding-left:10%;
+    padding-right: 5%;
+}
+
+.sec-three{
+    padding-left:10%;
+    padding-right: 5%;
+}
+.image{
+    padding-bottom:5%;
+    position: relative;
+    z-index: -1;
+    margin-top: -20%;
+}
+.pokemon{
+    padding-left: 12%;
+}
+
+/* Achievements Section */
+
+#Achievements{
+    padding-top: 8%;
+}
+.Proud-Moments{
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-size:smaller;
+    width: 70%;
+}
+.line{
+    height:5px;
+    width:40px;
+    padding-bottom: 2%;
+    border-color: white;
+    background-color:rgb(163,202,55) ;
+}
+.proud-text{
+    padding:5% 10% 5% 5%;
+    font-size: 300%;
+    font-weight: 900;
+}
+.proudleft{
+    margin-left:10% ;
+}
+.proud{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: xx-large;
+    background-color:rgb(163,202,55) ;
+    color:white;
+    width: 50%;
+    height:80%;
+    margin-left: 70%;
+    margin-right:4%;
+    margin-top: -29%;
+}
+.first-two{
+    margin-left: 10%;
+}
+.sec-two{
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.last{
+    margin-left:8%;
+}
+
+
+/* Hobbies Section */
+
+.hobbies{
+    padding-top:20%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hustle{
+    font-size: 500%;
+    
+}
+.hustle-para{
+    padding-left: 10%;
+    padding-top: 5%;
+    width:40%;
+}
+.grid { 
+    display: grid;
+    grid-template-columns:360px 30px 40px;
+}
+.guitar{
+    height:60%;
+    width:95%;
+    margin-top:-2%;
+    padding-right: 2%;
+}
+.friends{
+    margin-top:-20%;
+}
+.leisure{
+    margin-left: 10%;
+}
+
+/* Contacts */
+
+#Contacts{
+    margin-left: 10%;
+}
+.socials{
+    background-color: rgb(163,202,55);
+    font-family: 'Poppins', sans-serif;
+    margin-top: 5%;
+    padding:5%;
+    width:35%;
+}
+.handles{
+    height:20px;
+    width:20px;
+}
+u{
+    color: white;
+}
+.copyright{
+    display: flex;
+    align-items:flex-end;
+    margin-left: 700px;
+
+}
+.footer{
+    color:white;
+    font-size:300%;
+    
+}
